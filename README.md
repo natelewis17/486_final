@@ -5,4 +5,4 @@ This is the GitHub Repository for my final mini-project for STAT 486. This proje
 This Repo Contains:
 * All of the code I used to complete this project (final_code.ipynb)
 * My report summarizing the findings of my project (final_report.pdf)
-* The CSV containing the data I used. I got the CSV from [Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) user Rush Kirubi's posted dataset. The data comes originally from Vgchartz and Metacritic.
+* The CSV containing the data I analyzed. I got the CSV from [Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) user Rush Kirubi's posted dataset. The data comes originally from Vgchartz and Metacritic. (Video_Games_Sales.csv)
